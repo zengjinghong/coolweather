@@ -1,5 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">@color/_0091ea</color>
+    <color name="colorPrimaryDark">@color/_0091ea</color>
+    <color name="colorAccent">#ff4081</color>
+
+    <color name="app_bg">#eee</color>
+    <color name="white">#fff</color>
+    <color name="shallow_white">#80ffffff</color>
+    <color name="black">#000000</color>
+    <color name="gray">#aaa</color>
+    <color name="red">#FF0000</color>
+    <color name="translucent">#00000000</color>
+    <color name="toolbar_bg">#2a3575</color>
+    <color name="_0091ea">#0091ea</color>
+    <color name="_009a61">#009a61</color>
+    <color name="_a5a9aa">#a5a9aa</color>
+    <color name="_2e3135">#2e3135</color>
+    <color name="_333333">#333333</color>
+    <color name="_767676">#767676</color>
+    <color name="_60ffffff">#60ffffff</color>
+    <color name="_20000000">#20000000</color>
+    <color name="_10000000">#10000000</color>
+    <color name="_484848">#484848</color>
+    <color name="_999999">#999999</color>
+
+    <!--custom-->
+    <color name="base_bg_color">@color/white</color>
+    <color name="base_item_tint">@color/gray</color>
+    <color name="text_color_base">@color/white</color>
+    <color name="text_color_second">@color/deep_gray</color>
+    <color name="text_color_third">@color/gray1</color>
+    <color name="text_color_reverse">@color/black_dark</color>
+    <color name="nav_selected">@color/colorPrimary</color>
+    <color name="nav_unselected">@color/gray1</color>
+    <color name="color_line_divider">@color/gray</color>
+    <color name="color_pressed">@color/gray1</color>
+    <color name="colorPrimaryLight">@color/blue_light</color>
+
+    <color name="orange">#EB7347</color>
+    <color name="orange_red">#FC9D99</color>
+    <color name="green">#26A65B</color>
+    <color name="green_light">#8cc540</color>
+    <color name="green_dark">#84AF9B</color>
+    <color name="green_grass">#AEDD81</color>
+    <color name="blue">#00CCFF</color>
+    <color name="blue_light">#00B1E0</color>
+    <color name="blue_dark">#019fa0</color>
+    <color name="blue_deep">#007cdc</color>
+    <color name="purple_light">#cd7bdd</color>
+    <color name="purple_deep">#887ddd</color>
+    <color name="pink">#ff5675</color>
+    <color name="yellow">#f8bd0b</color>
+
+    <color name="trans">@android:color/transparent</color>
+    <color name="deep_gray">#7A7777</color>
+    <color name="gray1">#575656</color>
+    <color name="black_dark">#0C0C0C</color>
+    <color name="orange1">#DA711F</color>
+    <color name="transparent">@android:color/transparent</color>
 </resources>
